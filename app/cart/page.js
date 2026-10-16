@@ -36,7 +36,7 @@ export default function CartPage() {
       <div className="page-heading align-left">
         <span className="section-kicker">YOUR ORDER, YOUR WAY</span>
         <h1>Your <em>cart.</em></h1>
-        <p>Everything delicious you've picked, all in one place.</p>
+        <p>Everything delicious youapos;ve picked, all in one place.</p>
       </div>
 
       {cart.length === 0 ? (
